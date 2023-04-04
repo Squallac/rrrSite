@@ -1,0 +1,21 @@
+.black-bg {
+  background-color: black;
+}
+.primary-bg {
+  background-color: #efdbb8;
+}
+.white-font {
+  color: white;
+}
+.menu {
+  color: red;
+}
+
+main {
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
+  background-image: url("./images/desiertoSm.png");
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
